@@ -8,7 +8,7 @@ This software allows people to create their simulation components and visualize 
 
 Welcome to BabyLizard quick start tutorial.
 
-**Step 1 - Initial Setup**
+#### Step1: Initial Setup
 
 - Install [.Net Core SDK 5.0](https://dotnet.microsoft.com/download/dotnet-core)
 - Install [Visual Studio 2019](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16)
@@ -22,7 +22,7 @@ Welcome to BabyLizard quick start tutorial.
 
 - Open the `BabyLizardExample.uproject` and follow the steps
 
-Step 2 - Congratulations
+#### Step2: Congratulations
 
 Congratulations! You now should be able to open the BabyLizard example project and start creating components. We will update out documentation more in the future with more tutorials on how to use our editor. Feel free to contact us if you require any assistant email: **info@spaceservicesaustralia.com**
 
@@ -39,11 +39,7 @@ Lets start by creating a mod first to store our battery. This will allow us to a
 - Press the "Create UGC" button on the toolbar
 - Give your new mod a name and press "Create Mod"
 
-<br/>
-
 ![Image 1](https://babylizard.s3-ap-southeast-2.amazonaws.com/Images/QuickTutorial_01.png)
-
-<br/>
 
 ![Image 2](https://babylizard.s3-ap-southeast-2.amazonaws.com/Images/QuickTutorial_02.png)
 
@@ -57,10 +53,7 @@ Next we need to create a new battery blueprint. On the content folder of our new
 
 ![Image 3](https://babylizard.s3-ap-southeast-2.amazonaws.com/Images/QuickTutorial_03.png)
 
-<br/>
-
 ![Image 4](https://babylizard.s3-ap-southeast-2.amazonaws.com/Images/QuickTutorial_04.png)
-
 
 #### Step3: Editing our Battery
 
@@ -68,7 +61,7 @@ Below is the blueprint graph for out battery
 
 If you are not familiar with Unreal Engine, we sugest watching the official tutorial:
 
-- [Intro to Blueprints: Blueprint Introduction | 01 | v4.8 Tutorial Series | Unreal Engine](https://www.youtube.com/watch?v=EFXMW_UEDco)
+- [Intro to Blueprints: Blueprint Introduction(01 v4.8 Tutorial Series Unreal Engine)](https://www.youtube.com/watch?v=EFXMW_UEDco)
 
 The left panel shows the simulation events and variables that our custom battery uses. In the example we are creating a battery that has a leak on it's charge by updating the final message
 
