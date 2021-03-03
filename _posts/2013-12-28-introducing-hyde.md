@@ -7,8 +7,7 @@ Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a pro
 smsmsmsms
 
 rrjr]jwjw
-<img src="{{site.baseurl}}/blob/master/public/QuickTutorial_07.png)">
-![image](
+<img src="https://github.com/imoisharma/hyde/blob/master/public/QuickTutorial_07.png)">
 ### Built on Poole
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
