@@ -25,8 +25,7 @@ Welcome to BabyLizard quick start tutorial.
 Step 2 - Congratulations
 
 Congratulations! You now should be able to open the BabyLizard example project and start creating components. We will update out documentation more in the future with more tutorials on how to use our editor.
-Feel free to contact us if you require any assistant or information (![info@spaceservicesaustralia.com](https://mailto:info@spaceservicesaustralia.com))
-
+Feel free to contact us if you require any assistant email: **infor@spaceservicesaustralia.com**
 
 
 ### What is the Baby Lizard?
@@ -55,11 +54,13 @@ In addition to the features of Poole, Hyde adds the following:
 Provide the description here~
 
 ### Browser support
-
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+ 
+( Add accordingly)
+BabyLizard is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
 
 ### Download
 
+(Add accordingly)
 Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
 
 Thanks!
