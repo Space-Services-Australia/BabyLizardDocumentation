@@ -4,37 +4,27 @@ title: Introducing BabyLizard
 ---
 This software allows people to create their simulation components and visualize them. If you have own/purchased a Cyphys license, you should be able to start testing quickly
 
-Quick Startup
+### Quick Startup
 
-Welcome to Baby Lizard!
+Welcome to BabyLizard quick start tutorial.
 
-This software allows people to create their simulation components and visualize them
+**Step 1 - Initial Setup**
 
-If you have own/purchased a Cyphys license, you should be able to start testing quickly
-
-Step 1 - Initial Setup
-
- Install [.Net Core SDK 5.0](https://dotnet.microsoft.com/download/dotnet-core)
-
+- Install [.Net Core SDK 5.0](https://dotnet.microsoft.com/download/dotnet-core)
 - Install [Visual Studio 2019](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16)
-
 - Install [Unreal Engine 4.26](https://www.unrealengine.com/en-US/download?install=true)
-
-- Restart your computer (recommended)
+- Restart your computer (`recommended`)
 
 - Run the `Setup.ps1` or install it manually:
 
     1) [Automation Tool](./1_AutomationTool/README.md)
-
     2) [Asset Registry](./2_AssetRegistry/README.md)
 
 - Open the `BabyLizardExample.uproject` and follow the steps
 
-
 Step 2 - Congratulations
 
 Congratulations! You now should be able to open the BabyLizard example project and start creating components. We will update out documentation more in the future with more tutorials on how to use our editor.
-
 Feel free to contact us if you require any assistant or informatiom (![info@spaceservicesaustralia.com](mailto:info@spaceservicesaustralia.com) )
 
 
