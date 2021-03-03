@@ -17,7 +17,7 @@ Welcome to BabyLizard quick start tutorial.
 
 - Run the `Setup.ps1` or install it manually:
 
-    1) [Automation Tool](./1_AutomationTool/README.md)
+    1) [Automation Tool](./1_AutomationTool/README.md) <br>
     2) [Asset Registry](./2_AssetRegistry/README.md)
 
 - Open the `BabyLizardExample.uproject` and follow the steps
@@ -25,7 +25,7 @@ Welcome to BabyLizard quick start tutorial.
 Step 2 - Congratulations
 
 Congratulations! You now should be able to open the BabyLizard example project and start creating components. We will update out documentation more in the future with more tutorials on how to use our editor.
-Feel free to contact us if you require any assistant or informatiom (![info@spaceservicesaustralia.com](mailto:info@spaceservicesaustralia.com) )
+Feel free to contact us if you require any assistant or information (![info@spaceservicesaustralia.com](https://mailto:info@spaceservicesaustralia.com))
 
 
 
