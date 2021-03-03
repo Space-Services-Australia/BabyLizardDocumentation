@@ -4,7 +4,7 @@ title: Introducing BabyLizard
 ---
 This software allows people to create their simulation components and visualize them. If you have own/purchased a `Cyphys license`, you should be able to start testing quickly.
 
-### Quick Startup
+## Quick Startup
 
 Welcome to BabyLizard quick start tutorial.
 
@@ -26,7 +26,7 @@ Step 2 - Congratulations
 
 Congratulations! You now should be able to open the BabyLizard example project and start creating components. We will update out documentation more in the future with more tutorials on how to use our editor. Feel free to contact us if you require any assistant email: **info@spaceservicesaustralia.com**
 
-### BabyLizard Tutorial
+## BabyLizard Tutorial
 
 In this quick tutorial we are going to demonstrate how to create a custom battery.
 
@@ -45,40 +45,24 @@ Lets start by creating a mod first to store our battery. This will allow us to a
 
 <br/>
 
-![Image 2](./Resources/Images/QuickTutorial_02.png)
+![Image 2](https://babylizard.s3-ap-southeast-2.amazonaws.com/Images/QuickTutorial_02.png)
 
+#### Step 2: Creating a Battery
 
-<br/>
-<hr/>
-
-### <b> <i> Step 2 - Creating a Battery </i> </b>
-
-<br/>
-
-Next we need to create a new battery blueprint
-
-On the content folder of our new mod we created:
+Next we need to create a new battery blueprint. On the content folder of our new mod we created:
 
 - Right-Click and create a new blueprint
 - Under all classes, search for BskSimpleBattery
 - Press the "Select" button and give your blueprint a name
 
-<br/>
-
-![Image 3](./Resources/Images/QuickTutorial_03.png)
+![Image 3](https://babylizard.s3-ap-southeast-2.amazonaws.com/Images/QuickTutorial_03.png)
 
 <br/>
 
-![Image 4](./Resources/Images/QuickTutorial_04.png)
+![Image 4](https://babylizard.s3-ap-southeast-2.amazonaws.com/Images/QuickTutorial_04.png)
 
-<br/>
 
-<br/>
-<hr/>
-
-### <b> <i> Step 3 - Editing our Battery </i> </b>
-
-<br/>
+#### Step3: Editing our Battery
 
 Below is the blueprint graph for out battery
 
@@ -86,46 +70,24 @@ If you are not familiar with Unreal Engine, we sugest watching the official tuto
 
 - [Intro to Blueprints: Blueprint Introduction | 01 | v4.8 Tutorial Series | Unreal Engine](https://www.youtube.com/watch?v=EFXMW_UEDco)
 
-The left panel shows the simulation events and variables that our custom battery uses
-
-In the example we are creating a battery that has a leak on it's charge by updating the final message
-
-<br/>
-
-![Image 5](./Resources/Images/QuickTutorial_05.png)
+The left panel shows the simulation events and variables that our custom battery uses. In the example we are creating a battery that has a leak on it's charge by updating the final message
 
 
-<br/>
+![Image 5](https://babylizard.s3-ap-southeast-2.amazonaws.com/Images/QuickTutorial_05.png)
 
-![Image 6](./Resources/Images/QuickTutorial_06.png)
+![Image 6](https://babylizard.s3-ap-southeast-2.amazonaws.com/Images/QuickTutorial_06.png)
 
-<br/>
-<hr/>
-
-### <b> <i> Step 4 - Packaging your new Mod </i> </b>
-
-<br/>
+#### Step 4: Packaging your new Mod
 
 Once you are happy to package your new battery or custom components:
 
 - Press the "Package UGC" button in the toolbar
 
-![Image 7](./Resources/Images/QuickTutorial_07.png)
+![Image 7](https://babylizard.s3-ap-southeast-2.amazonaws.com/Images/QuickTutorial_07.png)
 
-<br/>
-<hr/>
+#### Congratulations
 
-### <b> <i> Step 5 - Congratulations </i> </b>
-
-Congratulations on making your first mod! You are now ready to submit your mod to our simulation pipeline
-
-We will update out documentation more in the future with more tutorials on how to use our editor
-
-Feel free to contact us if you require any assistant or information
-
-<br/>
-
-
+Congratulations on making your first mod! You are now ready to submit your mod to our simulation pipeline. We will update out documentation more in the future with more tutorials on how to use our editor. Feel free to contact us if you require any assistant email: info@spaceservicesaustralia.com
 
 ### Download
 
