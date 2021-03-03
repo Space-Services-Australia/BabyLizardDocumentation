@@ -24,8 +24,7 @@ Welcome to BabyLizard quick start tutorial.
 
 Step 2 - Congratulations
 
-Congratulations! You now should be able to open the BabyLizard example project and start creating components. We will update out documentation more in the future with more tutorials on how to use our editor.
-Feel free to contact us if you require any assistant email: **infor@spaceservicesaustralia.com**
+Congratulations! You now should be able to open the BabyLizard example project and start creating components. We will update out documentation more in the future with more tutorials on how to use our editor. Feel free to contact us if you require any assistant email: **infor@spaceservicesaustralia.com**
 
 
 ### What is the Baby Lizard?
