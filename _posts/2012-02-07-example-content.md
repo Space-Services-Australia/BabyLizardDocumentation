@@ -90,7 +90,7 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo r
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
 ![placeholder](https://github.com/imoisharma/hyde/blob/master/public/QuickTutorial_07.png)
-![placeholder](http://placehold.it/400x200 "Medium example image")
+![placeholder](https://satboxclient.s3-ap-southeast-2.amazonaws.com/Screenshot_2021-02-28+Untitled+design.png "Medium example image")
 ![placeholder](http://placehold.it/200x200 "Small example image")
 
 ### Tables
