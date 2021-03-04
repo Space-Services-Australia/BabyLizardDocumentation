@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Baby Lizard
 tagline:          'Documentation'
-description:      'Baby Lizard software helps to create simulation components and visualize them. © SpaceServicesAustralia Pvt Ltd.'
+description:      'Baby Lizard software helps you to create simulation components and visualize them ©SpaceServicesAustralia Pvt Ltd.'
 url:              http://spaceservicesaustralia.com
 baseurl:          '/BLD/'
 
