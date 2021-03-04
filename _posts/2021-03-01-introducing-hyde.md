@@ -84,6 +84,6 @@ Congratulations on making your first mod! You are now ready to submit your mod t
 
 ### Download
 
-BabyLizard Developed by SpaceServicesAustralia Pvt Ltd. Head to the <a href="https://github.com/spaceservicesaustralia/BLD">GitHub repository</a> for downloads, bug reports, and features requests.
+BabyLizard Developed by SpaceServicesAustralia Pvt Ltd. Head to the <a href="https://github.com/space-services-australia/BLD">GitHub repository</a> for downloads, bug reports, and features requests.
 
 Thanks!
