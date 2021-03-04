@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Introducing BabyLizard
 ---
 This software allows people to create their simulation components and visualize them. If you have own/purchased a `Cyphys license`, you should be able to start testing quickly.
