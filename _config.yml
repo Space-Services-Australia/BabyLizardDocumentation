@@ -11,7 +11,7 @@ title:            Baby Lizard
 tagline:          'Documentation'
 description:      'Baby Lizard software helps you to create simulation components and visualize them ©SpaceServicesAustralia Pvt Ltd.'
 url:              http://spaceservicesaustralia.com
-baseurl:          '/BLD/'
+baseurl:          '/BabyLizardDocumentation/'
 
 author:
   name:           'Mohit Sharma'
