@@ -1,6 +1,6 @@
 # BabyLizard Documentation
 
-Documentation Link: https://space-services-australia.github.io/BLD/
+Documentation Link: https://space-services-australia.github.io/BabyLizardDocumentation/
 
 ## Author
 
